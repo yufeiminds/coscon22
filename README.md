@@ -1,3 +1,4 @@
-# The open-source engineering guide for organization
+# China Open Source Conference
 
+* Title: *The engineering guide for open-source organization*
 * [Presentation](./presentation.pdf)
